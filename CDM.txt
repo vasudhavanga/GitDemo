@@ -1,0 +1,575 @@
+    {
+        "ApplicationID": "{{applicationId}}",
+        "Assets": [
+            {
+                "ChangedFlag": false,
+                "ManualEntryFlag": false,
+                "ID": "f166b97e-7f8a-45ee-b0cb-a8c83ede075b",
+                "Type": "SavingsAccount",
+                "Owners": [
+                    "Client"
+                ],
+                "Deposit": 0.0,
+                "Description": "FAKE ACCOUNT",
+                "InterestRate": 0.0,
+                "IsCarNew": false,
+                "Kilometers": 0,
+                "Value": -746.0,
+                "LastUpdated": "2020-01-01",
+                "CreatedDate": "0001-01-01",
+                "UpdatedDate": "0001-01-01",
+                "ApplicationID": "{{applicationId}}"
+            },
+            {
+                "ChangedFlag": false,
+                "ManualEntryFlag": false,
+                "ID": "942e354e-d504-46d7-8751-881dde4fd533",
+                "Type": "SavingsAccount",
+                "Owners": [
+                    "Client",
+                    "Partner"
+                ],
+                "Deposit": 0.0,
+                "Description": "FAKE ACCOUNT 1",
+                "InterestRate": 0.0,
+                "IsCarNew": false,
+                "Kilometers": 0,
+                "Value": 1267.0,
+                "LastUpdated": "2020-01-01",
+                "CreatedDate": "0001-01-01",
+                "UpdatedDate": "0001-01-01",
+                "ApplicationID": "{{applicationId}}"
+            },
+            {
+                "ChangedFlag": false,
+                "ManualEntryFlag": false,
+                "ID": "bf5b285f-b229-4541-9b51-690c0a60a598",
+                "Type": "SavingsAccount",
+                "Owners": [
+                    "Partner"
+                ],
+                "Deposit": 0.0,
+                "Description": "FAKE ACCOUNT 3",
+                "InterestRate": 0.0,
+                "IsCarNew": false,
+                "Kilometers": 0,
+                "Value": 562.0,
+                "LastUpdated": "2020-01-01",
+                "CreatedDate": "0001-01-01",
+                "UpdatedDate": "0001-01-01",
+                "ApplicationID": "{{applicationId}}"
+            },
+            {
+                "ChangedFlag": false,
+                "ManualEntryFlag": false,
+                "ID": "72cf28b8-fb71-48a4-9228-c2f331e63295",
+                "Type": "MutualFund",
+                "Owners": [
+                    "Client"
+                ],
+                "Deposit": 0.0,
+                "Description": "FAKE ACCOUNT 1",
+                "InterestRate": 0.0,
+                "IsCarNew": false,
+                "Kilometers": 0,
+                "Value": 1062.0,
+                "LastUpdated": "2020-01-01",
+                "CreatedDate": "0001-01-01",
+                "UpdatedDate": "0001-01-01",
+                "ApplicationID": "{{applicationId}}"
+            },
+            {
+                "ChangedFlag": false,
+                "ManualEntryFlag": false,
+                "ID": "c78f08ff-1738-4525-aad3-5a3106ee80fb",
+                "Type": "MutualFund",
+                "Owners": [
+                    "Client"
+                ],
+                "Deposit": 0.0,
+                "Description": "FAKE ACCOUNT 1",
+                "InterestRate": 0.0,
+                "IsCarNew": false,
+                "Kilometers": 0,
+                "Value": 1519.0,
+                "LastUpdated": "2020-01-01",
+                "CreatedDate": "0001-01-01",
+                "UpdatedDate": "0001-01-01",
+                "ApplicationID": "{{applicationId}}"
+            },
+            {
+                "ChangedFlag": false,
+                "ManualEntryFlag": false,
+                "ID": "fea6c502-b620-481e-9fff-feaa2b253dcf",
+                "Type": "MutualFund",
+                "Owners": [
+                    "Client"
+                ],
+                "Deposit": 0.0,
+                "Description": "FAKE ACCOUNT",
+                "InterestRate": 0.0,
+                "IsCarNew": false,
+                "Kilometers": 0,
+                "Value": 8.0,
+                "LastUpdated": "2020-01-01",
+                "CreatedDate": "0001-01-01",
+                "UpdatedDate": "0001-01-01",
+                "ApplicationID": "{{applicationId}}"
+            },
+            {
+                "ChangedFlag": false,
+                "ManualEntryFlag": false,
+                "ID": "d3528fc8-c4a3-4be4-9b13-fb51fef0fb42",
+                "Type": "SavingsAccount",
+                "Owners": [
+                    "Client"
+                ],
+                "Deposit": 0.0,
+                "Description": "FAKE ACCOUNT 3",
+                "InterestRate": 0.0,
+                "IsCarNew": false,
+                "Kilometers": 0,
+                "Value": 130.0,
+                "LastUpdated": "2020-01-01",
+                "CreatedDate": "0001-01-01",
+                "UpdatedDate": "0001-01-01",
+                "ApplicationID": "{{applicationId}}"
+            },
+            {
+                "ChangedFlag": false,
+                "ManualEntryFlag": false,
+                "ID": "d998406d-e61b-4471-84a3-9ea512fca4e9",
+                "Type": "SavingsAccount",
+                "Owners": [
+                    "Client"
+                ],
+                "Deposit": 0.0,
+                "Description": "FAKE ACCOUNT 4",
+                "InterestRate": 0.0,
+                "IsCarNew": false,
+                "Kilometers": 0,
+                "Value": 321509.0,
+                "LastUpdated": "2020-01-01",
+                "CreatedDate": "0001-01-01",
+                "UpdatedDate": "0001-01-01",
+                "ApplicationID": "{{applicationId}}"
+            }
+        ],
+        "Insurances": [
+            {
+                "ChangedFlag": false,
+                "ID": "901e3820-c3fd-487c-9eb8-9889240273e1",
+                "Type": "DisabilityInsurancePolicy",
+                "ContractNumber": "1111111",
+                "Description": "FAKE AOV",
+                "ManualEntryFlag": false,
+                "Owners": [
+                    "Client"
+                ],
+                "Payment": 15843.0,
+                "Targets": [],
+                "PaymentFrequency": "Monthly",
+                "InsuredValueFirstYear": 0.0,
+                "InsuredValue": 0.0,
+                "StartDate": "0001-01-01",
+                "EndDate": "0001-01-01",
+                "PaymentEndDate": "0001-01-01",
+                "LastUpdated": "2020-12-31",
+                "CreatedDate": "0001-01-01",
+                "UpdatedDate": "0001-01-01",
+                "ApplicationID": "{{applicationId}}"
+            }
+        ],
+        "Mortgages": [
+            {
+                "ID": "7fced1ca-6ba0-49e7-867e-298294e1af51",
+                "ChangedFlag": false,
+                "ManualEntryFlag": false,
+                "Description": "FAKE Aflossingsvrije Hypotheek",
+                "LoanPart": [
+                    {
+                        "ID": "fce4d7e6-70b7-4745-bf77-0da69a758590",
+                        "Type": "InterestOnlyMortgage",
+                        "Description": "FAKE Aflossingsvrije Hypotheek",
+                        "EWS": 400000.0,
+                        "CalculatedAnnuity": 0.0,
+                        "InterestRate": 0.51999998092651367,
+                        "FixedInterestStartDate": "0001-01-01",
+                        "FixedInterestEndDate": "0001-01-01",
+                        "EndDateInterestDeduction": "0001-01-01",
+                        "LoanSum": 400000.0,
+                        "ValueStartFiscalYear": 0.0,
+                        "CurrentValue": 400000.0,
+                        "MortgageRegistration": 0.0,
+                        "NHG": false,
+                        "Owners": [
+                            "Client"
+                        ],
+                        "Supplier": "FAKE Bank",
+                        "Return": 0.0,
+                        "Active": false,
+                        "Taxation": "Unknown",
+                        "StartDate": "0001-01-01",
+                        "EndDate": "0001-01-01",
+                        "LastUpdated": "2020-12-31",
+                        "InterestAdvantage": 0.0,
+                        "InterestDeduction": false
+                    },
+                    {
+                        "ID": "3c0edeaf-a706-44e4-a43a-596d2ef7aab1",
+                        "Type": "BankSavingsMortgage",
+                        "Description": "FAKE Bankspaarhypotheek",
+                        "EWS": 50000.0,
+                        "CalculatedAnnuity": 0.0,
+                        "InterestRate": 6.0500001907348633,
+                        "FixedInterestStartDate": "0001-01-01",
+                        "FixedInterestEndDate": "0001-01-01",
+                        "EndDateInterestDeduction": "0001-01-01",
+                        "LoanSum": 50000.0,
+                        "ValueStartFiscalYear": 0.0,
+                        "CurrentValue": 50000.0,
+                        "MortgageRegistration": 0.0,
+                        "NHG": false,
+                        "Owners": [
+                            "Client"
+                        ],
+                        "Supplier": "FAKE Bank",
+                        "Return": 0.0,
+                        "Active": false,
+                        "Taxation": "Unknown",
+                        "StartDate": "0001-01-01",
+                        "EndDate": "0001-01-01",
+                        "LastUpdated": "2020-12-31",
+                        "InterestAdvantage": 0.0,
+                        "InterestDeduction": false
+                    },
+                    {
+                        "ID": "7343f2f6-7159-4136-a903-901d8697c243",
+                        "Type": "BankSavingsMortgage",
+                        "Description": "FAKE Bankspaarhypotheek",
+                        "EWS": 50000.0,
+                        "CalculatedAnnuity": 0.0,
+                        "InterestRate": 6.0500001907348633,
+                        "FixedInterestStartDate": "0001-01-01",
+                        "FixedInterestEndDate": "0001-01-01",
+                        "EndDateInterestDeduction": "0001-01-01",
+                        "LoanSum": 50000.0,
+                        "ValueStartFiscalYear": 0.0,
+                        "CurrentValue": 50000.0,
+                        "MortgageRegistration": 0.0,
+                        "NHG": false,
+                        "Owners": [
+                            "Client"
+                        ],
+                        "Supplier": "FAKE Bank",
+                        "Return": 0.0,
+                        "Active": false,
+                        "Taxation": "Unknown",
+                        "StartDate": "0001-01-01",
+                        "EndDate": "0001-01-01",
+                        "LastUpdated": "2020-12-31",
+                        "InterestAdvantage": 0.0,
+                        "InterestDeduction": false
+                    }
+                ],
+                "RealEstateID": "f905e839-8f40-47c8-9125-12f373f3a2d2",
+                "Supplier": "FAKE Bank",
+                "MortgageTotal": 500000.0,
+                "CurrentValue": 0.0,
+                "StartDate": "0001-01-01",
+                "EndDate": "0001-01-01",
+                "LastUpdated": "2020-12-31",
+                "CreatedDate": "0001-01-01",
+                "UpdatedDate": "0001-01-01",
+                "ApplicationID": "{{applicationId}}"
+            }
+        ],
+        "Pensions": [
+            {
+                "Active": false,
+                "ChangedFlag": false,
+                "ManualEntryFlag": false,
+                "CurrentEmployer": false,
+                "Description": "FAKE PENSION SUPPLIER",
+                "DivorceSettlementPP": "Onbekend",
+                "ID": "7302223a-be78-4a9c-90be-8d33bac0ce7f",
+                "Type": "DefinedBenefit",
+                "OrphanPensionPerChild": false,
+                "Owner": "Client",
+                "Owners": [
+                    "31766e49-471b-4044-8f42-475f7ef0c418"
+                ],
+                "Settlement": "Onbekend",
+                "Supplier": "FAKE PENSION SUPPLIER",
+                "Values": [
+                    {
+                        "Date": "2021-04-03",
+                        "ElderlyPension": [
+                            {
+                                "Accumulated": 6636.0,
+                                "AccumulatedSingle": 0.0,
+                                "AccumulatedAfterRetirement": 0.0,
+                                "AgeFrom": 0.0,
+                                "AgeUntil": 0.0,
+                                "Expected": 6636.0,
+                                "ExpectedBeforeRetirement": 0.0,
+                                "ExpectedAfterRetirement": 0.0,
+                                "StartAgePayment": 67,
+                                "StartAgePaymentMonths": 0,
+                                "EndAgePayment": 0,
+                                "EndAgePaymentMonths": 0,
+                                "ProvisoryValue": 0.0,
+                                "FixedValue": 0.0,
+                                "Single": 0.0,
+                                "ExpectedSingle": 0.0,
+                                "StateSingle": 0.0,
+                                "TotalSingle": 0.0,
+                                "StateCohabiting": 0.0,
+                                "TotalCohabitating": 0.0,
+                                "PensionPayoutStartDate": "0001-01-01",
+                                "PensionPayoutEndDate": "0001-01-01"
+                            }
+                        ]
+                    }
+                ],
+                "StartDate": "2035-05-25",
+                "EndDate": "0001-01-01",
+                "LastUpdated": "2021-06-11",
+                "CreatedDate": "0001-01-01",
+                "UpdatedDate": "0001-01-01",
+                "ApplicationID": "{{applicationId}}"
+            },
+            {
+                "Active": false,
+                "ChangedFlag": false,
+                "ManualEntryFlag": false,
+                "CurrentEmployer": false,
+                "Description": "SPMS",
+                "DivorceSettlementPP": "Onbekend",
+                "ID": "226ba3ef-53d4-439d-b639-9ce87dab236c",
+                "Type": "DefinedBenefit",
+                "OrphanPensionPerChild": false,
+                "Owner": "Client",
+                "Owners": [
+                    "31766e49-471b-4044-8f42-475f7ef0c418"
+                ],
+                "Settlement": "Onbekend",
+                "Supplier": "SPMS",
+                "Values": [
+                    {
+                        "Date": "2021-06-08",
+                        "ElderlyPension": [
+                            {
+                                "Accumulated": 15732.0,
+                                "AccumulatedSingle": 0.0,
+                                "AccumulatedAfterRetirement": 0.0,
+                                "AgeFrom": 0.0,
+                                "AgeUntil": 0.0,
+                                "Expected": 31138.0,
+                                "ExpectedBeforeRetirement": 0.0,
+                                "ExpectedAfterRetirement": 0.0,
+                                "StartAgePayment": 65,
+                                "StartAgePaymentMonths": 0,
+                                "EndAgePayment": 67,
+                                "EndAgePaymentMonths": 0,
+                                "ProvisoryValue": 0.0,
+                                "FixedValue": 0.0,
+                                "Single": 0.0,
+                                "ExpectedSingle": 0.0,
+                                "StateSingle": 0.0,
+                                "TotalSingle": 0.0,
+                                "StateCohabiting": 0.0,
+                                "TotalCohabitating": 0.0,
+                                "PensionPayoutStartDate": "0001-01-01",
+                                "PensionPayoutEndDate": "0001-01-01"
+                            }
+                        ]
+                    }
+                ],
+                "StartDate": "2033-05-25",
+                "EndDate": "0001-01-01",
+                "LastUpdated": "2021-06-11",
+                "CreatedDate": "0001-01-01",
+                "UpdatedDate": "0001-01-01",
+                "ApplicationID": "{{applicationId}}"
+            },
+            {
+                "Active": false,
+                "ChangedFlag": false,
+                "ManualEntryFlag": false,
+                "CurrentEmployer": false,
+                "Description": "SPMS",
+                "DivorceSettlementPP": "Onbekend",
+                "ID": "9fc9ff80-5a72-47f6-b235-f28e01701ac3",
+                "Type": "DefinedBenefit",
+                "OrphanPensionPerChild": false,
+                "Owner": "Client",
+                "Owners": [
+                    "31766e49-471b-4044-8f42-475f7ef0c418"
+                ],
+                "Settlement": "Onbekend",
+                "Supplier": "SPMS",
+                "Values": [
+                    {
+                        "Date": "2021-06-08",
+                        "ElderlyPension": [
+                            {
+                                "Accumulated": 15732.0,
+                                "AccumulatedSingle": 0.0,
+                                "AccumulatedAfterRetirement": 0.0,
+                                "AgeFrom": 0.0,
+                                "AgeUntil": 0.0,
+                                "Expected": 31138.0,
+                                "ExpectedBeforeRetirement": 0.0,
+                                "ExpectedAfterRetirement": 0.0,
+                                "StartAgePayment": 67,
+                                "StartAgePaymentMonths": 0,
+                                "EndAgePayment": 0,
+                                "EndAgePaymentMonths": 0,
+                                "ProvisoryValue": 0.0,
+                                "FixedValue": 0.0,
+                                "Single": 0.0,
+                                "ExpectedSingle": 0.0,
+                                "StateSingle": 0.0,
+                                "TotalSingle": 0.0,
+                                "StateCohabiting": 0.0,
+                                "TotalCohabitating": 0.0,
+                                "PensionPayoutStartDate": "0001-01-01",
+                                "PensionPayoutEndDate": "0001-01-01"
+                            }
+                        ]
+                    }
+                ],
+                "StartDate": "2033-05-25",
+                "EndDate": "0001-01-01",
+                "LastUpdated": "2021-06-11",
+                "CreatedDate": "0001-01-01",
+                "UpdatedDate": "0001-01-01",
+                "ApplicationID": "{{applicationId}}"
+            }
+        ],
+        "Person": [
+            {
+                "ID": "d5f68b20-24cb-4857-ad9c-99a9b92b08d8",
+                "ManualEntryFlag": false,
+                "ChangedFlag": false,
+                "Type": "Client",
+                "Gender": "Male",
+                "DateOfBirth": "1968-05-25",
+                "IsSmoker": false,
+                "Language": "Unknown",
+                "OwnRisk": "Unknown",
+                "RiskAppetite": "Unknown",
+                "Situation": "Unknown",
+                "LastUpdated": "2020-12-31",
+                "EducationLevel": "Unknown",
+                "EducationalLevelOrigValue": 0,
+                "SchoolType": "Unknown",
+                "EmploymentHistory": "20",
+                "SocialSecurityNumber": "0",
+                "DateOfRegistrationBRP": "0001-01-01",
+                "PersonCardBRPConverted": false,
+                "MaritalStatus": "Married",
+                "DateOfMarriage": "0001-01-01",
+                "EverDivorced": false,
+                "Prefix": "",
+                "Surname": "TEST",
+                "UsedSurname": "TEST",
+                "Initials": "T.",
+                "Nationality": "Unknown",
+                "ImmigrationDate": "0001-01-01",
+                "LivingSituation": "Unknown",
+                "Addresses": [],
+                "RetirementDate": "2035-05-25",
+                "DiscountAOWYears": 0,
+                "Investment": 0.0,
+                "CreatedDate": "0001-01-01",
+                "UpdatedDate": "2020-12-31",
+                "ApplicationID": "{{applicationId}}"
+            },
+            {
+                "ID": "41fe2e05-6451-402e-8046-766cd1976696",
+                "ManualEntryFlag": false,
+                "ChangedFlag": false,
+                "Type": "Partner",
+                "Gender": "Unknown",
+                "DateOfBirth": "1965-07-29",
+                "IsSmoker": false,
+                "Language": "Unknown",
+                "OwnRisk": "Unknown",
+                "RiskAppetite": "Unknown",
+                "Situation": "Unknown",
+                "LastUpdated": "2020-12-31",
+                "EducationLevel": "Unknown",
+                "EducationalLevelOrigValue": 0,
+                "SchoolType": "Unknown",
+                "SocialSecurityNumber": "0",
+                "DateOfRegistrationBRP": "0001-01-01",
+                "PersonCardBRPConverted": false,
+                "MaritalStatus": "Married",
+                "DateOfMarriage": "0001-01-01",
+                "EverDivorced": false,
+                "Surname": "TEST-FAKE",
+                "UsedSurname": "TEST-FAKE",
+                "Initials": "T.",
+                "Nationality": "Unknown",
+                "ImmigrationDate": "0001-01-01",
+                "LivingSituation": "Unknown",
+                "Addresses": [],
+                "RetirementDate": "2032-07-29",
+                "DiscountAOWYears": 0,
+                "Investment": 0.0,
+                "CreatedDate": "0001-01-01",
+                "UpdatedDate": "2020-12-31",
+                "ApplicationID": "{{applicationId}}"
+            }
+        ],
+        "RealEstates": [
+            {
+                "ChangedFlag": false,
+                "EnergyLabel": "Unknown",
+                "ID": "f905e839-8f40-47c8-9125-12f373f3a2d2",
+                "Type": "FamilyHouse",
+                "ManualEntryFlag": false,
+                "Owners": [
+                    "Client"
+                ],
+                "PurchaseYear": 0,
+                "PurchasePrice": 0.0,
+                "Usage": "MainResidence",
+                "LivingSpace": 0,
+                "Valuation": {
+                    "Type": "Unknown",
+                    "Date": "0001-01-01",
+                    "Amount": 0.0,
+                    "ObjectType": "FamilyHouse"
+                },
+                "Valuations": [
+                    {
+                        "Type": "Governmental",
+                        "Date": "2019-01-01",
+                        "Amount": 1013000.0,
+                        "ObjectType": "FamilyHouse",
+                        "ObjectID": "177100003117"
+                    }
+                ],
+                "Housing": true,
+                "WOZWaarde": 1013000.0,
+                "YearOfConstruction": 0,
+                "SellingStatus": "Unknown",
+                "ConstructionCosts": 0.0,
+                "NHG": false,
+                "OwnershipClient": 0.0,
+                "TransactionDate": "0001-01-01",
+                "LastUpdated": "2020-12-31",
+                "OccupancyDate": "0001-01-01",
+                "ConveyanceDuty": 0.0,
+                "CreatedDate": "0001-01-01",
+                "UpdatedDate": "0001-01-01",
+                "ApplicationID": "{{applicationId}}"
+            }
+        ],
+        "HdnData": {
+            "Authorized": false
+        }
+    }

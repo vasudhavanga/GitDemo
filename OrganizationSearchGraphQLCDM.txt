@@ -1,0 +1,18 @@
+{
+  organizationSearch(type:"AdvisoryOfice",hdnNumber:"",name:"", orderBy:"name DESC", pageSize:25)
+  {
+      id,
+      name,
+      host,
+      shortName,
+      isActive,
+      street,
+      houseNumber,
+      suffix,
+      postalCode,
+      city,
+      hasAdmin,
+      type      
+     
+  }
+}

@@ -1,0 +1,18 @@
+{
+  applicationSearch (onlyLastStatus:true,hasDraftStatus:false ,orderBy :"firstName", pageSize : 50)
+  {
+    dateOfBirth,
+    firstName,
+    lastName,
+    mortgageAmount,
+    postalCode,
+    prefix,
+    statusExpireAt,
+    dossierNumber,
+    offerteNumber,
+    mortgageSupplier,
+    organizationName,
+    mortgageContractNumber,
+    statusMessageText
+  }
+}
